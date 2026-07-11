@@ -8,14 +8,14 @@ This project analyzes the "Seattle Airbnb Open Data" using "Microsoft Excel" for
 
 • Project Structure
 
-── Dataset
-• Listings.xlsx
-• Calendar.xlsx
-• Reviews.xlsx
-
-── Images
-── README.md
-── Seattle Airbnb Dashboard.twbx
+* Images
+  - Dashboard.png
+* README.md
+* Seattle Airbnb Dashboard.twbx
+* Dataset
+  - Listings.xlsx
+  - Calendar.xlsx
+  - Reviews.xlsx  
 
 ---
 
@@ -122,7 +122,7 @@ The Tableau dashboard provides insights into:
 
 • Dashboard Preview
 
-- Seattle Airbnb Dashboard - "C:\Users\priya\OneDrive\Documents\Seattle-Airbnb-Tableau-Dashboard\Images\Dashboard.png.png"
+![Seattle Airbnb Dashboard](Images/Dashboard.png)
 
 ---
 
