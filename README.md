@@ -131,11 +131,3 @@ The Tableau dashboard provides insights into:
 Seattle Airbnb Open Dataset (https://www.kaggle.com/datasets/airbnb/seattle)
 
 ---
-
-• Author
-
-PRIYA T
-
-GitHub: _(Add your GitHub profile link here)_
-
-LinkedIn: https://www.linkedin.com/in/priya-t-b9649427b/
